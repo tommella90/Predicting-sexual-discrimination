@@ -9,8 +9,8 @@ Which individual characteristics predict implicit sexual discrimination? The IAT
 
 ## HOW:
 I will use:
-2021 DATASET AS TRAINING DATA
-2020 DATASET AS TEST SET Data found at this link
+- 2021 DATASET AS TRAINING DATA
+- 2020 DATASET AS TEST SET Data found at this link
 
 ## FILES: 
 - data_prep: data cleaning and data preparation
