@@ -1,6 +1,6 @@
 ## Predicting sexual discrim
 
-I use Harvard University data on implicit discrimiation to spot predictors of sexual discrimiation (exploratory analysis and machine learning). The fig. shows variables correlated (OLS exploratory regression) with implicit discrimination.
+I use Harvard University data on implicit discrimiation to spot predictors of sexual discrimiation (exploratory analysis and machine learning)
 
 ### Files: 
 - data_prep: data cleaning and data preparation
