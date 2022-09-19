@@ -23,7 +23,9 @@ First exploratory analysis shows the potential predictors of implicit sexual dis
 
 [<img src="https://github.com/tommella90/Predicting-sexual-discrimination/blob/main/img/ols_coeff.png" width="500" height="400">](https://github.com/tommella90/Tommy_Portfolio) [<img src="https://github.com/tommella90/Predicting-sexual-discrimination/blob/main/img/ols_coeff_ci.png" width="500" height="400">](https://github.com/tommella90/Tommy_Portfolio)
 Variables that significantly predict implicit sexual discrimination are:
+
 :heavy_plus_sign: Preference for straight people (surprisingly :P), being religious
+
 :heavy_minus_sign: Age, education, liberal political view (vs conservative)
 
 In terms of prediction, the maximum R2 reached is .35. Considering the volatily of the variables considered, it's not so bad. 
