@@ -10,4 +10,4 @@ I use the Harvard test IAT to explore potential predictors of implicit sexual di
 Which individual characteristics predict implicit sexual discrimination? The IAT tests asks the respondents to fill some information about their believes, politics orientations, explicit discrimination and so on. I use these information to predict the measure of implicit discrimination (time reaction to the association test).
 I used linear regression to explore feature importance, as shown in the figure. 
 
-
+![bar_plots](https://user-images.githubusercontent.com/66441052/217930869-41f38171-fdcc-4c82-b187-e6f9257fede9.jpeg)
