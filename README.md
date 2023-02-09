@@ -1,5 +1,5 @@
 # IMPLICIT SEXUAL DISCRIMINATION
-Notebook ![here](https://github.com/tommella90/Predicting-sexual-discrimination/blob/main/analysis.ipynb)
+Notebook [here](https://github.com/tommella90/Predicting-sexual-discrimination/blob/main/analysis.ipynb)
 
 
 ## DESCRIPTION
